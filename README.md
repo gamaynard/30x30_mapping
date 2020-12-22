@@ -31,8 +31,11 @@ This shapefile includes three closures as follows:
 - Western Gulf of Maine Closure is closed year-round to all fishing vessels, with the following exemptions: Charter and party* or recreational vessels; vessels fishing with exempted gears (spears, rakes, diving gear, cast nets, tongs, harpoons, weirs, dip nets, stop nets, pound nets, pots and traps, purse seines, surf clam/ quahog dredge gear, pelagic hook and line, pelagic longlines, single pelagic gillnets, and shrimp trawls (with properly configured grates)); and vessels participating in the mid-water trawl exempted fishery.
 
 [**Habitat Management Areas**](https://www.fisheries.noaa.gov/resource/map/habitat-management-areas-map-gis)
-This shapefile contains 10 HMAs. Unless otherwise noted, no fishing vessel may fish with bottom-tending mobile gear in the areas defined in the shapefile. Notes below:
+This shapefile contains 7 HMAs, two closures, and 1 exemption area. Unless otherwise noted, no fishing vessel may fish with bottom-tending mobile gear in the areas defined in the shapefile. Notes below:
 
 - Ammen Rock HMA is closed to all fishing vessels including private and fore hire recreational vessels except for vessels fishing exclusively with lobster traps. 
 
 - Western Gulf of Maine Shrimp Exemption Area: Vessels fishing with shrimp trawls under the Small Mesh Northern Shrimp Fishery Exemption specified at § 648.80(a)(5) may fish within the Western Gulf of Maine HMA Shrimp Exemption Area
+
+[**Northeast Canyons and Seamounts National Monument**](https://www.fisheries.noaa.gov/resource/map/northeast-canyons-and-seamounts-marine-national-monument-map-gis-data)
+This shapefile defines the Northeast Canyons and Seamounts Marine National Monument. In 2020, President Trump removed all restrictions on commercial fishing in the area. 
