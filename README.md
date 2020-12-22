@@ -24,8 +24,8 @@ The Frank R. Lautenberg Deep Sea Coral Protection Areas are closed to all bottom
 [**Groundfish Closure Areas**](https://www.fisheries.noaa.gov/resource/map/northeast-groundfish-closure-areas)
 This shapefile includes three closures as follows:
 
-- Cashes Ledge Closure
+- Cashes Ledge Closure is closed year-round to all fishing vessels, with the following exemptions: Charter and party* or recreational vessels; vessels fishing with exempted gears (spears, rakes, diving gear, cast nets, tongs, harpoons, weirs, dip nets, stop nets, pound nets, pots and traps, purse seines, surf clam/ quahog dredge gear, pelagic hook and line, pelagic longlines, single pelagic gillnets, and shrimp trawls (with properly configured grates)); and vessels participating in the mid-water trawl exempted fishery.
 
-- Closed Area II Closure
+- Closed Area II Closure is closed year-round to all fishing vessels, with the following exceptions:  Vessels fishing with or using pot gear designed to take lobsters or hagfish, pelagic hook and line gear, pelagic longline gear, harpoon gear, tuna purse seine, pelagic mid-water trawl gear*, and tuna purse seine gear, provided no regulated species are kept and no other gear capable of catching NE multispecies is on board; and vessels fishing in a groundfish special access program (SAP) or scallop access program in compliance with the regulations.
 
-- Western Gulf of Maine Closure
+- Western Gulf of Maine Closure is closed year-round to all fishing vessels, with the following exemptions: Charter and party* or recreational vessels; vessels fishing with exempted gears (spears, rakes, diving gear, cast nets, tongs, harpoons, weirs, dip nets, stop nets, pound nets, pots and traps, purse seines, surf clam/ quahog dredge gear, pelagic hook and line, pelagic longlines, single pelagic gillnets, and shrimp trawls (with properly configured grates)); and vessels participating in the mid-water trawl exempted fishery.
