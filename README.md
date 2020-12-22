@@ -12,7 +12,11 @@ These areas are under jurisdiction of state governments, not the U.S. Federal Go
 NOAA Statistical Areas were downloaded from the Northeast Fisheries Science Center FTP server (linked at the bottom of the page linked above) and trimmed to only the NOAA statistical areas administered by the Greater Atlantic Regional Fisheries Office, as defined [here](https://www.fisheries.noaa.gov/resource/map/greater-atlantic-region-statistical-areas). 
 
 [**Dedicated Habitat Research Areas**](https://www.fisheries.noaa.gov/resource/map/dedicated-habitat-research-areas-map-gis)
-Footprints of the Stellwagen Bank and Georges Bank DHRAs. Stellwagen Bank DHRA is closed to all commercial mobile bottom-tending gear, commercial sink gillnet gear, and commercial demersal longline gear. Georges Bank DHRA is closed to all mobile bottom-tending gear. 
+Footprints of the Stellwagen Bank and Georges Bank DHRAs. 
+
+-Stellwagen Bank DHRA is closed to all commercial mobile bottom-tending gear, commercial sink gillnet gear, and commercial demersal longline gear. 
+
+-Georges Bank DHRA is closed to all mobile bottom-tending gear. 
 
 [**Frank R. Lautenberg Deep Sea Coral Protection Areas**](https://www.fisheries.noaa.gov/resource/map/frank-r-lautenberg-deep-sea-coral-protection-areas-map-gis)
 The Frank R. Lautenberg Deep Sea Coral Protection Areas are closed to all bottom tending commercial fishing gear, defined as bottom-tending otter trawls, bottom-tending beam trawls, hydraulic dredges, non-hydraulic dredges, bottom-tending seines, bottom-tending longlines, sink or anchored gill nets, and pots and traps except those use to fish fro red crab and American lobster. 
