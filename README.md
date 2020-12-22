@@ -3,13 +3,13 @@
 
 ## Data Sources
 [**Exclusive Economic Zone**](https://doi.org/10.14284/312)
-World EEZs were downloaded as a single file from the Flanders Marine Institute and trimmed to include only the EEZ of the United States. 
+World EEZs were downloaded as a single file from the Flanders Marine Institute and trimmed to include only the EEZ of the United States that is encompassed by the area administered by the Greater Atlantic regional Fisheries Office (GARFO), as defined [here](https://www.fisheries.noaa.gov/resource/map/greater-atlantic-region-statistical-areas). 
 
 [**Coastal Zones**](http://pubs.usgs.gov/of/2013/1284/)
 These areas are under jurisdiction of state governments, not the U.S. Federal Government
 
 [**NOAA Statistical Areas**](https://www.fisheries.noaa.gov/resource/map/greater-atlantic-region-statistical-areas)
-NOAA Statistical Areas were downloaded from the Northeast Fisheries Science Center FTP server (linked at the bottom of the page linked above) and trimmed to only the NOAA statistical areas administered by the Greater Atlantic Regional Fisheries Office, as defined [here](https://www.fisheries.noaa.gov/resource/map/greater-atlantic-region-statistical-areas). 
+NOAA Statistical Areas were downloaded from the Northeast Fisheries Science Center FTP server (linked at the bottom of the page linked above) and trimmed to only the NOAA statistical areas administered by GARFO. 
 
 [**Dedicated Habitat Research Areas**](https://www.fisheries.noaa.gov/resource/map/dedicated-habitat-research-areas-map-gis)
 Footprints of the Stellwagen Bank and Georges Bank DHRAs. 
